@@ -1,0 +1,21 @@
+<div class="post-card">
+    <h2><%= @post.title %></h2>
+    <div>
+        <p><%=@post.text %></p>
+        <span><%=@post.author_id %></span>
+        <ul>
+            <li><p>comment: <%=@post.comments_counter %></li>
+            <li>
+                <p>
+                    Likes: 
+                    <span>
+                        <%= @post.likes_counter %>
+                        <% @post.recent_comments.each do |single_comment| %>
+                            <p><%= comment.author.name %> : <%= comment.text %></p>
+                        <% end %>
+                    <span>
+                </p>
+            </li>
+        </ul>
+    </div>
+</div>
