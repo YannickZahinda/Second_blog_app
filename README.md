@@ -63,7 +63,7 @@ rspec
 
 - GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
 - Twitter: [@ZahindaY](https://www.linkedin.com/in/yannickmulikuza/)
-- LinkedIn: [joel kalema](https://twitter.com/ZahindaYannick)
+- LinkedIn: [Yannick Mulikuza](https://twitter.com/ZahindaYannick)
 
 ## 🤝 Contributing
 
